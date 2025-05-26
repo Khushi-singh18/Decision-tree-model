@@ -19,3 +19,4 @@ Evaluated the model using accuracy and a classification report to assess its per
 
 *OUTPUT*
 
+![Image](https://github.com/user-attachments/assets/8e814c1a-7876-4497-adca-3109c7c99771)
